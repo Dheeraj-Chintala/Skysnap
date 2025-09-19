@@ -1,12 +1,8 @@
-# React + Vite
+# SkySnap
+A modern, responsive weather app built with React + Vite + Tailwind CSS, showing real-time weather information for cities around the world. Features a frosted glass design, React Icons, and fully responsive layout for desktop and mobile.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Screenshots
+|Web View | Mobile View|
+|---------|-------------|
+|<img src="public/Screenshot (227).png" height="400px">|<img src="public/Screenshot_2025-09-19-22-31-38-47_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" height="400px">|
+|<img src="public/Screenshot (228).png" height="400px">|<img src="public/Screenshot_2025-09-19-22-31-30-96_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" height="400px">|
